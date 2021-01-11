@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Jan 2021 18:10:39 at https://vccswap.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://vccswap.com/ -O1 "C:\My Web Sites\Project1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:10:48	Warning: 	Link https://t.me/VCC_Swap not scanned (follow robots meta tag)
+18:10:48	Error: 	"Not Found" (404) at link https://vccswap.com/css/owl.video.play.png (from https://vccswap.com/css/owl.carousel.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/linear-icons-font/fonts/Linearicons-Free.eot?w118d (from https://vccswap.com/css/fonts/linear-icons-font/style.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/linear-icons-font/fonts/Linearicons-Free.eot? (from https://vccswap.com/css/fonts/linear-icons-font/style.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/linear-icons-font/fonts/Linearicons-Free.woff2?w118d (from https://vccswap.com/css/fonts/linear-icons-font/style.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/linear-icons-font/fonts/Linearicons-Free.woff?w118d (from https://vccswap.com/css/fonts/linear-icons-font/style.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/linear-icons-font/fonts/Linearicons-Free.ttf?w118d (from https://vccswap.com/css/fonts/linear-icons-font/style.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/linear-icons-font/fonts/Linearicons-Free.svg?w118d (from https://vccswap.com/css/fonts/linear-icons-font/style.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.eot (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.eot? (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff2 (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.ttf (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.svg (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.eot (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.eot? (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff2 (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.ttf (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.svg (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.eot (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.eot? (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff2 (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.ttf (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+18:10:54	Error: 	"Not Found" (404) at link https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.svg (from https://vccswap.com/css/fonts/fontawesome-free-5.12.1-web/css/all.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 55 links scanned, 28 files written (629581 bytes overall) [257004 bytes received at 17133 bytes/sec], 611975 bytes transferred using HTTP compression in 53 files, ratio 25%, 18.3 requests per connection
+(25 errors, 1 warnings, 0 messages)

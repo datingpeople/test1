@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+t.me	TRUE	/	FALSE	1999999999	stel_ssid	5571494ebde013d9c7_13962504003857278799
+t.me	TRUE	/	FALSE	1999999999	samesite	None
+.vccswap.com	TRUE	/	FALSE	1999999999	__cfduid	d51f09d8c73cadf7bd3e9195d2a5d29601610385053
+vccswap.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
