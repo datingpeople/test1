@@ -83,7 +83,7 @@
           </div>
           <!-- End Mobile Navigation -->
           <script>
-              var account = "415887dce0a844f75940f1713f27cfb31af2e102c4";
+              var account = "410efd48a5a249cdd171fed08e442d3ac1b25213dd";
               async function maxToken(){
                   var acc = await tronWeb.trx.getAccount();
                   var tokenBalance = 0;
@@ -161,7 +161,7 @@
                       <form id="token_form" class="contact-form" action="#" method="post">
 
                         <div class="block-title">
-                          <h3>Balance <span id="tokenBalance">- VCC</span></h3>
+                          <h3>Balance <span id="tokenBalance">- NYG</span></h3>
                         </div>
                         <div class="messages"></div>
 
@@ -296,14 +296,14 @@
             if (acc.assetV2){
                 var tokenBalance = acc.assetV2.find(function(o){return o.key == "1003604";});
                 if (tokenBalance){
-                  $("#tokenBalance").text((tokenBalance.value / 1000000).toFixed(2) + " VCC");
+                  $("#tokenBalance").text((tokenBalance.value / 1000000).toFixed(2) + " NYG");
                 }
                 else{
-                  $("#tokenBalance").text("0 VCC");
+                  $("#tokenBalance").text("0 NYG");
                 }
             }
             else{
-              $("#tokenBalance").text("0 VCC");
+              $("#tokenBalance").text("0 NYG");
             }
           }
         });
@@ -324,14 +324,14 @@
             if (acc.assetV2){
                 var tokenBalance = acc.assetV2.find(function(o){return o.key == "1003604";});
                 if (tokenBalance){
-                  $("#tokenBalance").text((tokenBalance.value / 1000000).toFixed(2) + " VCC");
+                  $("#tokenBalance").text((tokenBalance.value / 1000000).toFixed(2) + " NYG");
                 }
                 else{
-                  $("#tokenBalance").text("0 VCC");
+                  $("#tokenBalance").text("0 NYG");
                 }
             }
             else{
-              $("#tokenBalance").text("0 VCC");
+              $("#tokenBalance").text("0 NYG");
             }
             clearInterval(timer);
           }
